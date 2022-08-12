@@ -1,0 +1,53 @@
+Date : 2022-08-10 00:36:03
+Directory : c:\Users\alpho\Desktop\mca_blog\blog
+Total : 25 files,  139 codes, -44 comments, 40 blanks, all 135 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         25 |        139 |        -44 |         40 |        135 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         25 |        139 |        -44 |         40 |        135 |
+| ..                                                                          |          5 |        -88 |        -58 |        -46 |       -192 |
+| ..\CrabbyCoder                                                              |          5 |        -88 |        -58 |        -46 |       -192 |
+| migrations                                                                  |         11 |        142 |         10 |         62 |        214 |
+| templatetags                                                                |          2 |          5 |          0 |          3 |          8 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\alpho\Desktop\mca_blog\CrabbyCoder\__init__.py                     | Python   |          0 |          0 |         -1 |         -1 |
+| c:\Users\alpho\Desktop\mca_blog\CrabbyCoder\asgi.py                         | Python   |         -4 |         -8 |         -5 |        -17 |
+| c:\Users\alpho\Desktop\mca_blog\CrabbyCoder\settings.py                     | Python   |        -73 |        -27 |        -32 |       -132 |
+| c:\Users\alpho\Desktop\mca_blog\CrabbyCoder\urls.py                         | Python   |         -7 |        -15 |         -3 |        -25 |
+| c:\Users\alpho\Desktop\mca_blog\CrabbyCoder\wsgi.py                         | Python   |         -4 |         -8 |         -5 |        -17 |
+| c:\Users\alpho\Desktop\mca_blog\blog\__init__.py                            | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\alpho\Desktop\mca_blog\blog\admin.py                               | Python   |          3 |          1 |          0 |          4 |
+| c:\Users\alpho\Desktop\mca_blog\blog\apps.py                                | Python   |          3 |          0 |          3 |          6 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0001_initial.py             | Python   |         17 |          1 |          7 |         25 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0002_post_slug.py           | Python   |         13 |          1 |          6 |         20 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0003_auto_20201005_2218.py  | Python   |         27 |          1 |          6 |         34 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0004_auto_20201006_0113.py  | Python   |         12 |          1 |          6 |         19 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0005_auto_20201008_0510.py  | Python   |         12 |          1 |          6 |         19 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0006_auto_20201008_0531.py  | Python   |         13 |          1 |          6 |         20 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0007_auto_20201008_0532.py  | Python   |         13 |          1 |          6 |         20 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0008_post_view.py           | Python   |         12 |          1 |          6 |         19 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0009_post_overall.py        | Python   |         12 |          1 |          6 |         19 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\0010_remove_post_overall.py | Python   |         11 |          1 |          6 |         18 |
+| c:\Users\alpho\Desktop\mca_blog\blog\migrations\__init__.py                 | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\alpho\Desktop\mca_blog\blog\models.py                              | Python   |         23 |          1 |          4 |         28 |
+| c:\Users\alpho\Desktop\mca_blog\blog\templatetags\__init__.py               | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\alpho\Desktop\mca_blog\blog\templatetags\extras.py                 | Python   |          5 |          0 |          2 |          7 |
+| c:\Users\alpho\Desktop\mca_blog\blog\tests.py                               | Python   |          1 |          1 |          2 |          4 |
+| c:\Users\alpho\Desktop\mca_blog\blog\urls.py                                | Python   |          7 |          0 |          3 |         10 |
+| c:\Users\alpho\Desktop\mca_blog\blog\views.py                               | Python   |         43 |          1 |          8 |         52 |
+| Total                                                                       |          |        139 |        -44 |         40 |        135 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
